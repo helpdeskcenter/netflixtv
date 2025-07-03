@@ -18,7 +18,7 @@ Activating Netflix on your Smart TV or streaming device is quick and easy using 
 - Open the Netflix app on your Smart TV, Roku, Fire TV Stick, PlayStation, Xbox, or Apple TV.
 - Select **“Sign In.”**
 - A 6-digit activation code will appear on your TV screen.
-- On your phone, tablet, or computer browser, go to: `netflix.com/tv2 <https://netflixtv-helpdesk.readthedocs.io/en/latest>`_
+- On your phone, tablet, or computer browser, go to: `netflix.com/tv2 <https://fm.ci/?aHR0cHM6Ly9uZXRmbGl4dHYtaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0>`_
 - Enter the activation code displayed on your TV.
 - Log in to your Netflix account (or create one if you don’t have it).
 - Once activated, your TV will automatically refresh, and you’ll be signed in.
