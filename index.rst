@@ -4,7 +4,7 @@ How to Enter netflix.com/tv2 Code and Activate Netflix on TV
 You just need to visit netflix.com/tv2, enter the code displayed on your TV, and sign in with your Netflix account. This guide shows you exactly how to do it, fix common issues, and start watching your favorite movies and shows on the big screen within minutes.
 
 .. image:: get.png
-   :alt: setup.brother.com
+   :alt: netflix.com/tv2
    :target: 
 
 
