@@ -5,7 +5,7 @@ You just need to visit netflix.com/tv2, enter the code displayed on your TV, and
 
 .. image:: get.png
    :alt: netflix.com/tv2
-   :target: https://sites.google.com/view/wwwnetflixcomtv2/
+   :target: https://pre.im/?3X7UunD01l83hJCSFMZjQ7WcFuxTUIwCA4ZGLW8sxMKoW9qOTAmHY2zdTKhR8DdHx1AlY
 
 
 Step-by-Step Guide to Use netflix.com/tv2 and Activate Netflix on Your TV
